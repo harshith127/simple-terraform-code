@@ -1,4 +1,4 @@
-#This code use to creat aws ec2 instance called terrform project
+#This code use to creat aws ec2 instance 
 
 
 terraform {
